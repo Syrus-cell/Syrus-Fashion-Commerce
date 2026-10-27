@@ -92,9 +92,3 @@ SYRUS is deployed and accessible online. I'm continuing to develop and test its 
 ---
 
 *SYRUS is a personal project developed as part of my learning and practical experience in full-stack web development.*
-
-## Screenshots
-
-### Homepage
-
-![SYRUS Homepage](public/syrus-homepage.png)
